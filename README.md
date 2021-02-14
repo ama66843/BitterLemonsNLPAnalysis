@@ -1,4 +1,4 @@
-# nlpbitterlemonsexplor
+# BitterLemonsNLPAnalysis
 uses spaCy to see whether syntactic information can improve semantic prediction
 
 created by Austin Apt December 2019
